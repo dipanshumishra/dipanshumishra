@@ -10,3 +10,4 @@
 - ⚡ Fun fact: I spend almost 12 hours doing development everyday.
 
 <img src="https://github-readme-stats.vercel.app/api?username=dipanshumishra&theme=merko&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshumishra&theme=tokyonight">
