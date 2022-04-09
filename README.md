@@ -17,16 +17,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dipanshumishra&theme=merko&show_icons=true">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshumishra" alt="dipanshumishra" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="dipanshumishra" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
 
-<p >
+<p allign="left">
 <a href="https://www.linkedin.com/in/dipanshu-m-4a594513a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-m-4a594513a/" height="30" width="40" /></a>
-
- <a href="https://www.hackerrank.com/dipanshumishra71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dipanshumishra71" height="30" width="40" /></a>
- 
+ <a href="https://www.hackerrank.com/dipanshumishra71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dipanshumishra71" height="32" width="32" /></a>
 </p>
 
 
