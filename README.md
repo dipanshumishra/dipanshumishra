@@ -50,7 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dipanshumishra&theme=merko&show_icons=true" height="278" >
 </p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="dipanshumishra" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="dipanshumishra" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
