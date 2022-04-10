@@ -1,5 +1,6 @@
 <i>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshumishra&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshumishra" /> </p>
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=dipanshumishra&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshumishra" /> </p>
 
 ### Hola, I'm [Dipanshu Mishra!👋](https://dtechno.herokuapp.com/)
 - 🌱 I’m currently learning Java Frameworks
@@ -41,14 +42,15 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
  </a> 
  </p>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshumishra&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api?username=dipanshumishra&theme=merko&show_icons=true" height="278" >
-</p>
+ </p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="dipanshumishra" /></a> </p>
 
@@ -64,6 +66,5 @@
  </a>
 </p>
 </i>
-
 
 
